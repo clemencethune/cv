@@ -1,0 +1,146 @@
+body {
+  margin:0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1em;
+  color: #40514E;
+  line-height: 1.5;
+}
+
+a {
+  color: #40514E;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#1B5F94
+}
+
+h1 {
+  margin: 100px auto 0 auto;
+  font-family: 'Parisienne', cursive;
+  font-size: 5rem;
+  color: #1B5F94;
+}
+
+h2 {
+  font-size: 1.8rem;
+  color: #1B5F94;
+  font-weight: normal;
+}
+
+h3 {
+  color: #164F7A;
+  font-size:1.2rem;
+
+}
+
+hr {
+  border-style: dotted none none;
+  width: 10%;
+  border-color: #a6a9b6;
+  border-width: 7px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.bottom-container {
+  background-color: #c9cbff;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.BUTTON_YYB {
+   -webkit-border-radius: 12px;
+   -moz-border-radius: 12px;
+   border-radius: 12px;
+   color: #40514E;
+   font-family: sans-serif;
+   font-size: 18px;
+   font-weight: 100;
+   padding: 18px;
+   background-color: #EFF8FF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_YYB:hover {
+   background: #C9CBFF;
+   border: solid #C9CBFF 0;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.cloud {
+  position:absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.contact-msg {
+  width: 30%;
+  margin:auto;
+  padding-bottom: 40px;
+}
+
+.copyright {
+  color: #61627A;
+  font-size: 1rem;
+}
+
+.digital-img {
+  float:right;
+  margin-left: 30px;
+}
+
+.intro {
+  width:16%;
+  margin: auto;
+}
+
+.middle-container {
+  padding-top: 70px;
+  background-color: #ffe5b9;
+  padding-bottom: 70px;
+}
+
+.product {
+  text-decoration: underline;
+}
+
+.product-img {
+  float:left;
+  margin-right: 30px;
+}
+
+.profile-pic {
+  border-radius: 100%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 70px auto 70px auto;
+  text-align: left;
+}
+
+.sun-cloud {
+  position:absolute;
+  left: 300px;
+  bottom: 200px;
+}
+
+.top-container {
+  background-color: #eff8ff;
+  position:relative;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.tree-img {
+  padding-top: 20px;
+}
